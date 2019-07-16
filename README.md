@@ -55,8 +55,11 @@ resume and other profiles online.
 
 * Name
 * Github Username
+pjnick300
 * Blog URL (if they don't already have a blog it will be their-github-username.github.io)
+pjnick300.github.io
 * Tagline
+"Marginally better than you expected"
 * Profile Picture (something normal, a headshot, of a good reusable size that
   can be easily cropped)
 * Background Picture
@@ -64,12 +67,18 @@ resume and other profiles online.
 * CoderWall Account
 * CodeSchool Account
 * Favorite Websites
+reddit, Youtube, TVtropes.org
 * Previous Work Experience
+Student
 * Short Bio
+Parents divorced at 5, remarried at 13. Family Drama.
 * Twitter URL
+www.twitter.com/pjnick300
 * LinkedIn URL
-* Education
+https://www.linkedin.com/in/nicholas-dunlap-302359172/
 
+* Education
+Bachelors University of Illinois, Masters University of California - Davis
 ## Structure
 
 The structure of this project looks something like this:
